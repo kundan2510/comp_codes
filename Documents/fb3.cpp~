@@ -1,0 +1,38 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+	int n,count,temp,tempc;
+	scanf("%d",&n);
+	int array[n];
+	for(i = 0;i<n;i++)
+	{
+		scanf("%d",&array[i]);
+	}
+	sort(array,array+n);
+	count = 1;
+	for(i = 1;i<n;i++)
+	{
+		if(array[i-1] != array[i])
+			count++;
+	}
+	int arrdist[count];
+	int arrc[count];
+	arrdist[0] = array[0];
+	temp = 1;
+	tempc = 1;
+	for(i = 1;i<n;i++)
+	{
+		if(array[i-1] != array[i])
+		{	
+			arrdist[temp] = array[i];
+			arrc[temp - 1] = tempc; 
+			tempc = 1;
+		}
+		else
+		{
+			tempc++;
+		}
+	}
+	arrc[count-1] = tempc;
+}

@@ -1,0 +1,29 @@
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<title>Shorten Your URL</title>
+<script>
+function take_arg()
+{
+	var url = document.getElementById('url_input').value;
+	alert(url);
+	$.get("demo_test.asp",function(data,status){
+      alert("Data: " + data + "\nStatus: " + status);
+    });
+    $.post("demo_test_post.asp",
+    {
+      name:"Donald Duck",
+      city:"Duckburg"
+    },
+    function(data,status){
+      alert("Data: " + data + "\nStatus: " + status);
+    });
+    alert(url);
+}
+</script>
+</head>
+<body>
+GIVE URL  :  <input style="width:70%;"id="url_input" type="text">   <button type="button" id="shorten"onclick="take_arg()">Shorten</button></body>
+<div id="shortened"></div>
+</body>
+</html>

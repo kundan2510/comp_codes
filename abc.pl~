@@ -1,0 +1,14 @@
+ require LWP::UserAgent;
+ 
+ my $ua = LWP::UserAgent->new;
+ $ua->timeout(10);
+ $ua->env_proxy;
+ 
+ my $response = $ua->post('http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Valid_usr.jsp?LoginTxt=ankitap&PwdTxt=pri&lgnbtn=Login&usrtxt=null');
+ 
+ if ($response->is_success) {
+     print $response->decoded_content;  # or whatever
+ }
+ else {
+     die $response->status_line;
+ }

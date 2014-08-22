@@ -1,0 +1,227 @@
+Give initial Det1:Give initial Det2:Give initial Det3:Give initial thief:Before 10 20 30 199
+detetective1 tried to move as 11 0
+detetective2 tried to move as 2 0
+detetective3 tried to move as 42 0
+After 11  2  42  199
+Before 11  2  42  199
+Thief tried to move  as 198 0
+After 11  2  42  198
+Before 11  2  42  198
+detetective1 tried to move as 10 0
+detetective2 tried to move as 20 0
+detetective3 tried to move as 30 0
+After 1 2 3 198
+Before 1 2 3 198
+Thief tried to move  as 186 0
+After 1 2 3 186
+Before 1 2 3 186
+detetective1 tried to move as 8 0
+detetective2 tried to move as 10 0
+detetective3 tried to move as 11 0
+After 8  1 11  186
+Before 8  1 11  186
+Thief tried to move  as 198 0
+After 8  1 11  198
+Before 8  1 11  198
+detetective1 tried to move as 1 0
+detetective2 tried to move as 8 0
+detetective3 tried to move as 10 0
+After 1  8  1 198
+Before 1  8  1 198
+Thief tried to move  as 186 0
+After 1  8  1 186
+Before 1  8  1 186
+detetective1 tried to move as 8 0
+detetective2 tried to move as 1 0
+detetective3 tried to move as 46 2
+After 8  1  46  186
+Before 8  1  46  186
+Thief tried to move  as 198 0
+After 8  1  46  198
+Before 8  1  46  198
+detetective1 tried to move as 1 0
+detetective2 tried to move as 8 0
+detetective3 tried to move as 34 1
+After 1  8  34  198
+Before 1  8  34  198
+Thief tried to move  as 186 0
+After 1  8  34  186
+Before 1  8  34  186
+detetective1 tried to move as 8 0
+detetective2 tried to move as 1 0
+detetective3 tried to move as 10 0
+After 8  1  1 186
+Before 8  1  1 186
+Thief tried to move  as 198 0
+After 8  1  1 198
+Before 8  1  1 198
+detetective1 tried to move as 1 0
+detetective2 tried to move as 8 0
+detetective3 tried to move as 46 2
+After 1  8  46  198
+Before 1  8  46  198
+Thief tried to move  as 186 0
+After 1  8  46  186
+Before 1  8  46  186
+detetective1 tried to move as 8 0
+detetective2 tried to move as 1 0
+detetective3 tried to move as 34 1
+After 8  1  34  186
+Before 8  1  34  186
+Thief tried to move  as 198 0
+After 8  1  34  198
+Before 8  1  34  198
+detetective1 tried to move as 1 0
+detetective2 tried to move as 8 0
+detetective3 tried to move as 10 0
+After 1  8  1 198
+Before 1  8  1 198
+Thief tried to move  as 186 0
+After 1  8  1 186
+Before 1  8  1 186
+detetective1 tried to move as 8 0
+detetective2 tried to move as 1 0
+detetective3 tried to move as 46 2
+After 8  1  46  186
+Before 8  1  46  186
+Thief tried to move  as 198 0
+After 8  1  46  198
+Before 8  1  46  198
+detetective1 tried to move as 1 0
+detetective2 tried to move as 8 0
+detetective3 tried to move as 34 1
+After 1  8  34  198
+Before 1  8  34  198
+Thief tried to move  as 186 0
+After 1  8  34  186
+Before 1  8  34  186
+detetective1 tried to move as 8 0
+detetective2 tried to move as 1 0
+detetective3 tried to move as 10 0
+After 8  1  1 186
+Before 8  1  1 186
+Thief tried to move  as 198 0
+After 8  1  1 198
+Before 8  1  1 198
+detetective1 tried to move as 1 0
+detetective2 tried to move as 8 0
+detetective3 tried to move as 46 2
+After 1  8  46  198
+Before 1  8  46  198
+Thief tried to move  as 186 0
+After 1  8  46  186
+Before 1  8  46  186
+detetective1 tried to move as 8 0
+detetective2 tried to move as 1 0
+detetective3 tried to move as 34 1
+After 8  1  34  186
+Before 8  1  34  186
+Thief tried to move  as 198 0
+After 8  1  34  198
+Before 8  1  34  198
+detetective1 tried to move as 1 0
+detetective2 tried to move as 8 0
+detetective3 tried to move as 10 0
+After 1  8  1 198
+Before 1  8  1 198
+Thief tried to move  as 186 0
+After 1  8  1 186
+Before 1  8  1 186
+detetective1 tried to move as 8 0
+detetective2 tried to move as 1 0
+detetective3 tried to move as 46 2
+After 8  1  46  186
+Before 8  1  46  186
+Thief tried to move  as 198 0
+After 8  1  46  198
+Before 8  1  46  198
+detetective1 tried to move as 1 0
+detetective2 tried to move as 8 0
+detetective3 tried to move as 34 1
+After 1  8  34  198
+Before 1  8  34  198
+Thief tried to move  as 186 0
+After 1  8  34  186
+Before 1  8  34  186
+detetective1 tried to move as 8 0
+detetective2 tried to move as 1 0
+detetective3 tried to move as 10 0
+After 8  1  1 186
+Before 8  1  1 186
+Thief tried to move  as 198 0
+After 8  1  1 198
+Before 8  1  1 198
+detetective1 tried to move as 1 0
+detetective2 tried to move as 8 0
+detetective3 tried to move as 46 1
+After 1  8  46  198
+Before 1  8  46  198
+Thief tried to move  as 186 0
+After 1  8  46  186
+Before 1  8  46  186
+detetective1 tried to move as 8 0
+detetective2 tried to move as 1 0
+detetective3 tried to move as 34 1
+After 8  1  34  186
+Before 8  1  34  186
+Thief tried to move  as 198 0
+After 8  1  34  198
+Before 8  1  34  198
+detetective1 tried to move as 1 0
+detetective2 tried to move as 8 0
+detetective3 tried to move as 10 0
+After 1  8  1 198
+Before 1  8  1 198
+Thief tried to move  as 186 0
+After 1  8  1 186
+Before 1  8  1 186
+detetective1 tried to move as 8 0
+detetective2 tried to move as 1 0
+detetective3 tried to move as 46 1
+After 8  1  46  186
+Before 8  1  46  186
+Thief tried to move  as 198 0
+After 8  1  46  198
+Before 8  1  46  198
+detetective1 tried to move as 1 0
+detetective2 tried to move as 8 0
+detetective3 tried to move as 34 1
+After 1  8  34  198
+Before 1  8  34  198
+Thief tried to move  as 186 0
+After 1  8  34  186
+Before 1  8  34  186
+detetective1 tried to move as 8 0
+detetective2 tried to move as 1 0
+detetective3 tried to move as 10 0
+After 8  1  1 186
+Before 8  1  1 186
+Thief tried to move  as 198 0
+After 8  1  1 198
+Before 8  1  1 198
+detetective1 tried to move as 8 3
+detetective2 tried to move as 46 2
+detetective3 tried to move as 58 1
+After 8  46  58  198
+Before 8  46  58  198
+Thief tried to move  as 186 0
+After 8  46  58  186
+Before 8  46  58  186
+detetective1 tried to move as 8 3
+detetective2 tried to move as 34 1
+detetective3 tried to move as 44 0
+After 8  34  44  186
+Before 8  34  44  186
+Thief tried to move  as 198 0
+After 8  34  44  198
+Before 8  34  44  198
+detetective1 tried to move as 8 3
+detetective2 tried to move as 22 1
+detetective3 tried to move as 32 0
+After 8  22  32  198
+Before 8  22  32  198
+Thief tried to move  as 186 0
+After 8  22  32  186
+Before 8  22  32  186
+detetective1 tried to move as 8 3
+Sorry the 3 tickets have expired. det1 looses. Fuck You!
