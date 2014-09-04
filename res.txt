@@ -1,0 +1,170 @@
+***temporary adj vertex is 7 with weight 0.160000
+****going to insert 0 7 0.160000
+***temporary adj vertex is 4 with weight 0.380000
+****going to insert 0 4 0.380000
+***temporary adj vertex is 2 with weight 0.260000
+****going to insert 0 2 0.260000
+***temporary adj vertex is 6 with weight 0.580000
+****going to insert 0 6 0.580000
+size = 4
+location array :  
+0 is at 0 in heap
+1 is at 1 in heap
+2 is at 2 in heap
+3 is at 3 in heap
+4 is at 1 in heap
+5 is at 5 in heap
+6 is at 3 in heap
+7 is at 0 in heap
+heap with index:
+at position 0, vertex is 7 with eg (0, 7) and w 0.16
+at position 1, vertex is 4 with eg (0, 4) and w 0.38
+at position 2, vertex is 2 with eg (0, 2) and w 0.26
+at position 3, vertex is 6 with eg (0, 6) and w 0.58
+**extracted element 7 0 7 0.160000
+***temporary adj vertex is 4 with weight 0.370000
+*****going to decrease key 4 0.370000 (7 4)
+***temporary adj vertex is 5 with weight 0.280000
+****going to insert 7 5 0.280000
+***temporary adj vertex is 0 with weight 0.160000
+***temporary adj vertex is 1 with weight 0.190000
+****going to insert 7 1 0.190000
+***temporary adj vertex is 2 with weight 0.340000
+size = 5
+location array :  
+0 is at 0 in heap
+1 is at 0 in heap
+2 is at 1 in heap
+3 is at 3 in heap
+4 is at 3 in heap
+5 is at 4 in heap
+6 is at 2 in heap
+7 is at 3 in heap
+heap with index:
+at position 0, vertex is 1 with eg (7, 1) and w 0.19
+at position 1, vertex is 2 with eg (0, 2) and w 0.26
+at position 2, vertex is 6 with eg (0, 6) and w 0.58
+at position 3, vertex is 4 with eg (7, 4) and w 0.37
+at position 4, vertex is 5 with eg (7, 5) and w 0.28
+**extracted element 1 7 1 0.190000
+***temporary adj vertex is 5 with weight 0.320000
+***temporary adj vertex is 7 with weight 0.190000
+***temporary adj vertex is 2 with weight 0.360000
+***temporary adj vertex is 3 with weight 0.290000
+****going to insert 1 3 0.290000
+size = 5
+location array :  
+0 is at 0 in heap
+1 is at 4 in heap
+2 is at 0 in heap
+3 is at 4 in heap
+4 is at 3 in heap
+5 is at 1 in heap
+6 is at 2 in heap
+7 is at 3 in heap
+heap with index:
+at position 0, vertex is 2 with eg (0, 2) and w 0.26
+at position 1, vertex is 5 with eg (7, 5) and w 0.28
+at position 2, vertex is 6 with eg (0, 6) and w 0.58
+at position 3, vertex is 4 with eg (7, 4) and w 0.37
+at position 4, vertex is 3 with eg (1, 3) and w 0.29
+**extracted element 2 0 2 0.260000
+***temporary adj vertex is 3 with weight 0.170000
+*****going to decrease key 3 0.170000 (2 3)
+***temporary adj vertex is 0 with weight 0.260000
+***temporary adj vertex is 1 with weight 0.360000
+***temporary adj vertex is 7 with weight 0.340000
+***temporary adj vertex is 6 with weight 0.400000
+*****going to decrease key 6 0.400000 (2 6)
+size = 4
+location array :  
+0 is at 0 in heap
+1 is at 4 in heap
+2 is at 4 in heap
+3 is at 1 in heap
+4 is at 3 in heap
+5 is at 0 in heap
+6 is at 2 in heap
+7 is at 3 in heap
+heap with index:
+at position 0, vertex is 5 with eg (7, 5) and w 0.28
+at position 1, vertex is 3 with eg (2, 3) and w 0.17
+at position 2, vertex is 6 with eg (2, 6) and w 0.40
+at position 3, vertex is 4 with eg (7, 4) and w 0.37
+**extracted element 5 7 5 0.280000
+***temporary adj vertex is 4 with weight 0.350000
+*****going to decrease key 4 0.350000 (5 4)
+***temporary adj vertex is 7 with weight 0.280000
+***temporary adj vertex is 1 with weight 0.320000
+size = 3
+location array :  
+0 is at 0 in heap
+1 is at 4 in heap
+2 is at 4 in heap
+3 is at 0 in heap
+4 is at 1 in heap
+5 is at 3 in heap
+6 is at 2 in heap
+7 is at 3 in heap
+heap with index:
+at position 0, vertex is 3 with eg (2, 3) and w 0.17
+at position 1, vertex is 4 with eg (5, 4) and w 0.35
+at position 2, vertex is 6 with eg (2, 6) and w 0.40
+**extracted element 3 2 3 0.170000
+***temporary adj vertex is 2 with weight 0.170000
+***temporary adj vertex is 1 with weight 0.290000
+***temporary adj vertex is 6 with weight 0.520000
+size = 2
+location array :  
+0 is at 0 in heap
+1 is at 4 in heap
+2 is at 4 in heap
+3 is at 2 in heap
+4 is at 0 in heap
+5 is at 3 in heap
+6 is at 1 in heap
+7 is at 3 in heap
+heap with index:
+at position 0, vertex is 4 with eg (5, 4) and w 0.35
+at position 1, vertex is 6 with eg (2, 6) and w 0.40
+**extracted element 4 5 4 0.350000
+***temporary adj vertex is 5 with weight 0.350000
+***temporary adj vertex is 7 with weight 0.370000
+***temporary adj vertex is 0 with weight 0.380000
+***temporary adj vertex is 6 with weight 0.930000
+size = 1
+location array :  
+0 is at 0 in heap
+1 is at 4 in heap
+2 is at 4 in heap
+3 is at 2 in heap
+4 is at 1 in heap
+5 is at 3 in heap
+6 is at 0 in heap
+7 is at 3 in heap
+heap with index:
+at position 0, vertex is 6 with eg (2, 6) and w 0.40
+**extracted element 6 2 6 0.400000
+***temporary adj vertex is 2 with weight 0.400000
+***temporary adj vertex is 3 with weight 0.520000
+***temporary adj vertex is 0 with weight 0.580000
+***temporary adj vertex is 4 with weight 0.930000
+size = 0
+location array :  
+0 is at 0 in heap
+1 is at 4 in heap
+2 is at 4 in heap
+3 is at 2 in heap
+4 is at 1 in heap
+5 is at 3 in heap
+6 is at 0 in heap
+7 is at 3 in heap
+heap with index:
+1.81
+0 7 0.16
+2 3 0.17
+1 7 0.19
+0 2 0.26
+5 7 0.28
+4 5 0.35
+2 6 0.40
